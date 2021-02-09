@@ -1,2 +1,1 @@
-# infra-eercise-vinzmerchant
-Radtac Infrastructure Exercise
+Todo Exercise text goes here.
